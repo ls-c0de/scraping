@@ -1,0 +1,8 @@
+#Kreiere die Basis Tabelle
+CREATE TABLE produkte(id INTEGER, name TEXT);
+
+#Inseriere Daten in basistabelle
+INSERT INTO produkte
+VALUES ({counter}, {name})
+
+#
